@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.session
+*.log
+database.db
+crm_leads.xlsx
+*.sqlite3
