@@ -1,11 +1,9 @@
 aiogram==3.13.1 
 telethon==1.36.0 
-cryptg==0.4.0 
 openai==1.52.0 
 python-dotenv==1.0.1 
 sqlalchemy==2.0.35 
 aiofiles==23.2.1 
 aiohttp==3.10.5 
 pydantic==2.8.2 
-airtable-python-wrapper==0.15.0
 openpyxl==3.1.5
